@@ -1,0 +1,36 @@
+html {
+	background-image: url("../images/pattern3.png")
+}
+
+body{
+	margin: 0 auto;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+	background-color: transparent;
+  }
+.box{
+		width: 50rem;
+		height: 60rem;
+		margin: 0 auto;
+		background-color: grey;
+		color:black;
+		padding: 0 3rem 3rem 3rem;
+		border: 0.1rem solid black;
+}
+p, h1, h2, h3, h4, h5, h6{
+	background-color: transparent;
+	color:white
+}
+
+header{
+	width: 60%;
+	height:30%;
+	margin: 0 auto;
+	background-color: #25253e;
+	padding: 1rem 3rem 1rem 3rem;
+	border: 0.1rem solid black;
+  }
